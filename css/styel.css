@@ -1,0 +1,137 @@
+
+body{
+	background-color: #929090;
+    box-sizing: border-box;
+}
+
+h1{
+	text-align: center;
+	background-color: #2d2d31;
+	margin: auto;
+	color: white;
+	border:2px solid dodgerblue;
+
+}
+
+img{
+	height: 508px;
+	background-color: #929090;
+	padding-top: 50px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 80px;
+}
+
+.apf{
+	
+	overflow: auto;
+	
+	margin-top: 29px;
+}
+
+.containte{
+	background-color: #675266;
+	text-align: -webkit-center;
+	color: whitesmoke;
+	margin: auto;
+	padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.containte > h2 {
+	margin: 0px;
+	
+}
+
+.about{
+
+padding: 0px;
+
+background-color: #485848;
+
+height: 263px;
+
+width: 300px;
+
+margin: auto;
+
+color: white;
+
+text-align: center;
+
+text-shadow: 3px;
+
+box-sizing: border-box;
+
+float: left;
+
+overflow: scroll;
+}
+
+.profassion{
+	
+background-color: #384c4c;
+	
+height: 263px;
+	
+width: 300px;
+	
+text-align: -webkit-center;
+	
+margin: auto;
+	
+	
+box-sizing: border-box;
+	
+float: middle;
+	
+color: #c3bebe;
+		
+margin: auto;
+	
+overflow: scroll;
+	
+float: center;
+	
+float: right;
+	
+float: left;
+	
+margin-left: 36px;
+}
+
+.family{
+
+background-color: #121b1b;
+
+height: 263px;
+
+width: 300px;
+
+text-align: -webkit-center;
+
+box-sizing: border-box;
+
+float: right;
+
+color: #bcbcca;
+
+overflow: scroll;
+}
+
+footer{
+
+	font-style: oblique;
+
+	background-color: #929090;
+	
+	color: #020202;
+
+	height: 23px;
+
+	text-align: center;
+	
+	font-size: 18px;
+	}
